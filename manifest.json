@@ -1,0 +1,19 @@
+{
+    "name": "obed",
+    "short_name":"ob",
+    "display": "standalone",
+    "start_url": "/",
+    "description": "A simple app to track your daily expenses",
+    "icons":[
+        {
+            "src": "./img/favicon-16x16.png",
+            "sizes": "16x16",
+            "type": "image/png"
+          }
+    ],
+    "orientation": "portrait-primary",
+  "theme_color": "#bada55",
+  "background_color": "#eeeeee",
+  "display": "standalone",
+  "start_url": "./index.html"
+}

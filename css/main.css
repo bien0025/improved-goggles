@@ -1,0 +1,9 @@
+.anton-sc-regular {
+    font-family: "Anton SC", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+*{
+    box-sizing: border-box;
+    font-family: "Anton SC", serif;
+}  
